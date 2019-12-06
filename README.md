@@ -1,29 +1,18 @@
 # westh.wtf
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08c565cf-6e72-4d46-9197-311a259ed10e/deploy-status)](https://app.netlify.com/sites/cocky-almeida-d1152a/deploys)
+
 ## Project setup
 ```
-npm install
+yarn
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+yarn build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
